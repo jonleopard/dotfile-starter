@@ -1,0 +1,18 @@
+# Sensitive or unnecessary files don't need to be uploaded
+gnupg/*
+ssh/.ssh/known_hosts
+ssh/.ssh/id_rsa
+ssh/.ssh/id_rsa.pub
+
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
