@@ -1,4 +1,4 @@
-# Welcome to the dotfiles example repo!
+# Welcome to the dotfile starter!
 
 Let's start off with symlinking some dotfiles with GNU Stow! First, make clone this repo into your home directory:
 
