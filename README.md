@@ -42,6 +42,5 @@ You can also avoid using stow altogether if you wish. But as your environment gr
 I wrote a small [blog post](https://jonleopard.com/blog/dotfile-management-with-gnu-stow) on stow a while back, feel free to check it out.
 
 
-
-
+[logo]: .github/dotfile-starter.png
 
