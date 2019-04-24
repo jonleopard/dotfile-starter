@@ -39,7 +39,7 @@ Run `stow zsh`, and then look at your home directory again
 
 You can also avoid using stow altogether if you wish. But as your environment grows, its best to use some sort of dotfile manager or symlink farm manager to help you keep everything clean and organized. I chose stow because its very tiny (no dependencies, I believe?), and simple to use once you wrap your head how it works.
 
-I wrote a small [blog post](https://jonleopard.com/dotfile-management-with-gnu-stow) on stow a while back, feel free to check it out.
+I wrote a small [blog post](https://jonleopard.com/blog/dotfile-management-with-gnu-stow) on stow a while back, feel free to check it out.
 
 
 
