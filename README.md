@@ -2,6 +2,8 @@
 
 
 ### Welcome to the dotfile starter repo!
+Frst off, this guide assumes you are on a macOS system (I'll add a Linux distro section in the future).
+
 Let's start off with symlinking some dotfiles with GNU Stow! First, make clone this repo into your home directory:
 
 ```
