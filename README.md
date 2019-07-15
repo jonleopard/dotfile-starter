@@ -35,7 +35,7 @@ brew install stow
 
 ### Practice
 
-Now that all that is installed, we can start symlinking some dotfiles. To demonstrate this example, load up a finder and navigiate to your home directory. Make sure invisable files are displaying with either ` CMD + SHIFT + .` or run this `defaults write com.apple.finder AppleShowAllFiles YES`.
+Now that all that is installed, we can start symlinking some dotfiles. To demonstrate this example, load up a finder and navigiate to your home directory. Make sure invisable files are displaying with either ` CMD + SHIFT + .` or run this `defaults write com.apple.finder AppleShowAllFiles YES` in your shell.
 
 There is just one directory in this repo `zsh`. We will add more later. `zsh` contains a zsh dotfile named `.zshrc_test`. Once you run stow on the zsh directory, you should see that dotfile show up in your home directory. Try it out:
 
