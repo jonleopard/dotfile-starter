@@ -2,7 +2,8 @@
 
 
 ### Welcome to the dotfile starter repo!
-First off, this guide assumes you are on a macOS system (I'll add a Linux distro section in the future).
+
+This is a little project designed to help you get started building and managing your own dotfile repo using gnu stow. This guide assumes you are on a macOS system (I'll add a Linux distro section in the future).
 
 Let's start off with symlinking some dotfiles with GNU Stow! First, make clone this repo into your home directory:
 
