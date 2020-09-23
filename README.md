@@ -3,7 +3,7 @@
 
 ### Welcome to the dotfile starter repo!
 
-This is a little project designed to help you get started building and managing your own dotfile repo using gnu stow. This guide assumes you are on a macOS system (I'll add a Linux distro section in the future).
+This is a little project designed to help you get started building and managing your own dotfile repo using gnu stow. This guide assumes you are on a macOS system.
 
 Let's start off with symlinking some dotfiles with GNU Stow! First, make clone this repo into your home directory:
 
@@ -21,7 +21,7 @@ A package manager for Mac
 ```
 
 ### [zsh](http://zsh.sourceforge.net/)
-A bash shell alternative that includes things like file globbing, git command completion, among others.
+A bash shell alternative that includes things like file globbing, git command completion, etc. Since I personally use zsh, I've included it in this tutorial.
 ```
 brew install zsh && sudo dscl . -create /Users/$USER UserShell /usr/local/bin/zsh
 ``` 
