@@ -21,7 +21,7 @@ A package manager for Mac
 ```
 
 ### [zsh](http://zsh.sourceforge.net/)
-A bash shell alternative that includes things like file globbing, git command completion, etc. Since I personally use zsh, I've included it in this tutorial.
+A bash shell alternative that includes things like file globbing, git command completion, etc. Since I personally use zsh, I've included it in this tutorial. Since this tutorial was written, `zsh` now ships with macOS, so you can skip this step if you wish.
 ```
 brew install zsh && sudo dscl . -create /Users/$USER UserShell /usr/local/bin/zsh
 ``` 
